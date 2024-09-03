@@ -1,1 +1,2 @@
 Denna text är skriven från min bärbara dator
+Och denna text är skriven från min stationära dator.
